@@ -42,6 +42,8 @@
 [TID:1240] RET  MessageBoxW -> 0x1
 [TID:3048] CALL CreateFileW( L"C:\config.ini", 0x80000000, 0x1, 0x0 )
 [TID:3048] RET  CreateFileW -> 0xFFFFFFFFFFFFFFFF
+```
+
 🚀 快速开始 (Getting Started)
 安装
 下载最新的 release (.dp64 文件)。
